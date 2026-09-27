@@ -1,0 +1,10 @@
+ # Python execution cache files
+__pycache__/
+*.pyc
+
+# Local hardware simulation builds and logs
+verification_cocotb/sim_build/
+*.vcd
+*.ghw
+*.xml
+*.log
